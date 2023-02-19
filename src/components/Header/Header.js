@@ -47,7 +47,7 @@ const SuperHeader = styled.div`
 	background: var(--color-gray-900);
 	color: var(--color-white);
 	@media ${QUERIES.desktopAndUp} {
-		background: var(--color-white);
+		background: var(--color-gray-100);
 		color: var(--color-offblack);
 	}
 `;
